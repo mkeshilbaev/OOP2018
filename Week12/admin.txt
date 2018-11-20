@@ -1,0 +1,13 @@
+madi
+1688217
+Mon Nov 12 21:45:01 ALMT 2018 admin logged in to a system
+Mon Nov 12 21:45:31 ALMT 2018 admin added new instructor 'Bobur Mukhsimbayev'
+Mon Nov 12 21:45:59 ALMT 2018 admin added new textbook 'PakitaShamoi'
+Mon Nov 12 21:45:59 ALMT 2018 admin added new course 'OOP'
+Mon Nov 12 21:46:05 ALMT 2018 admin logged in to a system
+Thu Nov 15 15:00:28 ALMT 2018 admin logged in to a system
+Thu Nov 15 15:02:15 ALMT 2018 admin logged in to a system
+Thu Nov 15 15:02:38 ALMT 2018 admin added new instructor 'Bobur Mukhsimbayev'
+Thu Nov 15 15:02:49 ALMT 2018 admin added new textbook 'OOPs'
+Thu Nov 15 15:02:49 ALMT 2018 admin added new course 'OOP'
+Thu Nov 15 15:02:54 ALMT 2018 admin logged in to a system
