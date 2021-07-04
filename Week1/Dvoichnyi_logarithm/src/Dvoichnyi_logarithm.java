@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Dvoichnyi_logarithm {
 
-    public static bool isPrime(int a){
+    public static bool Prime(int a){
         for (int i = 2; i <= Math.sqrt(a); i++){
             if (a % i == 0)
                 return false;
